@@ -10,3 +10,52 @@ I got a opportunity ina verizon technologies as a Application Support engineer. 
 
 patching process:  we had BMC Remediation tool and through the tool pushed the patched for all the production servers and for non production servers we had local repor configures so with that local repo first we will ensure that first we will take snapshots, we get a CAB call we will raise a CRQ. Complete C
 /
+
+
+
+
+
+Hi I’m Manikandan Kannappan over all I having around 7 years of experience. Currently
+working in CGI as a SSE and also, I’m
+using AWS services in my project.
+Like in AWS I have good hands on experience on 18+services.
+We are Managing 4 environment like Development, QA, UAT, and Production Environment.
+
+Role:
+So, my roles will be like based on application stack,
+Therefore, based upon the development team and client team requirement, I will be setting up
+all the services on all different environments.
+As I mentioned Development, QA and UAT as I said we had couple of DevOps tools used on
+our Project like GIT, Jenkins, Docker, Ansible
+
+And also, I have good knowledge on writing terraform scripts and then using Kubernetes, it’s
+EKS services in AWS , So, we have recently Implemented EKS on our project
+This are my keys I can say.
+
+And
+
+When I coming to the day to day activity like we using servicenow ticketing tool my
+developer and the client team will raise the incident so based up on that I need to work on
+different environments
+And also, I will be writing CICD pipelines, actually so in the CICD we have used scripted
+pipeline that is complete in groovy script.
+I have good hands on creating a groovy script
+So, my script contains almost 7 stages.
+Initially what I will do that setting up all the servers and then I will be doing the integration
+activity following that I will be writing the pipeline
+so, this is the DevOps part
+Setting up servers Do integration activity Write pipeline
+, when coming to the AWS as I already say it’s based upon application stack, so we using different type of services actually,
+We used java--based application here and we have both on-premises as well as cloud-premises.based application here
+So far, we are now complete in the cloud actually, so we have separate team for onnow completed in the cloud actually, so we have separate team for on--promises.
+As I am being part of the cloud team, I will be using all cloud services
+These are my role
+When I’m coming to the project, recently we are working for the project hutch,So they are based on US
+So, the business is completely a Telecom sector,  US based project,  and they are doing business in the cloud so they recommended AWS cloud and some clients are doing business in azure as well as, in future business We are planning to move to azure also.
+So, this actually my things in current project. 
+
+
+I can say so both I have a good hands--on in AWS and also DevOps,
+
+=========================================================================
+========================================================================================================================================================================================================
